@@ -1,6 +1,6 @@
 <template>
-<div>in a real Header</div>
-  </template>
+  <div>in a real Header</div>
+</template>
   
   <script>
   export default {
